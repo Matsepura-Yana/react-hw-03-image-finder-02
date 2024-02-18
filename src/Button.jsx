@@ -1,7 +1,6 @@
 export const Button = ({ loadMoreFunction }) => {
     const styles = {
         fontSize: '16px',
-        backgroundColor: 'white',
         border: '1px solid',
         fontFamily: 'Times New Roman',
         backgroundColor: 'MidnightBlue',

@@ -14,7 +14,6 @@ export class Modal extends Component {
     }
     styleButton = {
         fontSize: '16px',
-        backgroundColor: 'white',
         border: '1px solid',
         fontFamily: 'Times New Roman',
         backgroundColor: 'MidnightBlue',
