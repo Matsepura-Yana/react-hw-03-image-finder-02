@@ -5,7 +5,7 @@ import { getSearchProductsApi } from './api'
 import { Component } from 'react'
 import { TheEnd } from 'TheEnd'
 import { Modal } from 'Modal'
-import React, { useState } from 'react'
+import React from 'react'
 
 class App extends Component {
     state = {
